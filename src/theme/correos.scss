@@ -1,0 +1,17 @@
+@font-face{
+    font-family:"CarteroW01-Light";
+    src: local("Cartero-Light"), local("Cartero-Light"),
+    url("#{$font-path}/cartero/CarteroW01-Light.woff") format("woff");
+}
+
+@font-face{
+    font-family:"CarteroW01-Regular";
+    src: local("Cartero-Regular"), local("Cartero-Regular"),
+    url("#{$font-path}/cartero/CarteroW01-Regular.woff") format("woff");
+}
+
+@font-face{
+    font-family:"CarteroW01-Bold";
+    src: local("Cartero-Bold"), local("Cartero-Bold"),
+    url("#{$font-path}/cartero/CarteroW01-Bold.woff") format("woff");
+}
